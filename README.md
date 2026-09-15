@@ -39,7 +39,7 @@ budget, temperature preference, crowd level, and environment type — powered by
 ---
 
 ## 👥 Team
-- Wania Abdul Basit
+- Wania Abdul Basit https://github.com/wania2024
 - Abeesha Amin  
 - Amna Abbas
 
